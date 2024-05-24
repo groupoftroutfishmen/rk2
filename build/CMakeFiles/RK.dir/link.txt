@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/RK.dir/main.cpp.o -o RK  -Wl,-rpath,/home/georgy/rk2/23Design_Patterns_CPP_Codeblocks/ChainOfResponsibility/build libRK2lib.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/RK_TEST.dir/tests/test.cpp.o -o RK_TEST  -Wl,-rpath,/home/georgy/rk2/23Design_Patterns_CPP_Codeblocks/ChainOfResponsibility/build libRK2lib.so lib/libgtest.a lib/libgtest_main.a lib/libgtest.a 
