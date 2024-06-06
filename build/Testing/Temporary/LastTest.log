@@ -1,0 +1,21 @@
+Start testing: Jun 06 09:36 MSK
+----------------------------------------------------------
+1/1 Testing: testS
+1/1 Test: testS
+Command: "/home/georgy/rk2/23Design_Patterns_CPP_Codeblocks/ChainOfResponsibility/build/RK_TEST"
+Directory: /home/georgy/rk2/23Design_Patterns_CPP_Codeblocks/ChainOfResponsibility/build
+"testS" start time: Jun 06 09:36 MSK
+Output:
+----------------------------------------------------------
+Approved by Project Manager.
+Approved by Director.
+Approved by Vice President.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testS" end time: Jun 06 09:36 MSK
+"testS" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 06 09:36 MSK
